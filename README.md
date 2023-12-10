@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/html5-css3-react-js-AcX9Ji9ZTP)
 - Live Site URL: [GitHub Pages](https://acurtido.github.io/qr-code-component-react/)
 
 ## My process
